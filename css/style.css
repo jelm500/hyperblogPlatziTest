@@ -10,3 +10,11 @@ body{
     border: 1px dotted black;
     margin: 0 auto;
 }
+
+.cabezera{
+    background: yellowgreen;
+    color: black;
+    text-align: left;
+    border-radius: 3px;
+    padding: 5px;
+}
