@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: blue;
+    color: blue ;
 }
 .container{
     width: 70%;
@@ -12,7 +12,7 @@ body{
 }
 
 .cabezera{
-    
+    background: red;
     color: black;
     text-align: left;
     border-radius: 3px;
